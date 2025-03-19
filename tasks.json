@@ -1,0 +1,29 @@
+{
+   "tasks":[
+      {
+         "point":1,
+         "task":"Купить продукты",
+         "position":true
+      },
+      {
+         "point":2,
+         "task":"Ремонт автомобиля",
+         "position":false
+      },
+      {
+         "point":3,
+         "task":"Прочитать книгу",
+         "position":false
+      },
+      {
+         "point":4,
+         "task":"Написать код д/з",
+         "position":true
+      },
+      {
+         "point":5,
+         "task":"Посмотреть фильм",
+         "position":false
+      }
+   ]
+ }
